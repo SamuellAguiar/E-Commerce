@@ -34,7 +34,7 @@ Para executar o projeto em sua máquina local, siga estas etapas:
 </h3>
 
 <p>
-  Esse projeto possui a licença MIT. Acesse o arquivo `/LICENSE` na pasta `/docs`  para obter mais informações.
+  Esse projeto possui a licença MIT. Acesse o arquivo /LICENSE na pasta /docs para obter mais informações.
 </p>
 <hr/>
 
