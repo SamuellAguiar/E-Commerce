@@ -4,8 +4,7 @@
   Esse projeto consiste em uma página web que representa um e-commerce.
   Foi desenvolvido em HTML, CSS e JavaScript, com foco em JavaScript.
 
-![Print do Site!](https://github.com/SamuellAguiar/E-Commerce/assets/83088885/ce4aece8-b31b-4121-84e1-5eab65471a0a)
-
+![Print do Site!](https://github.com/SamuellAguiar/E-Commerce/assets/83088885/272bdcec-d650-4e93-8b6a-82c89a08086a)
 </p>
 <hr/>
 
