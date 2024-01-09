@@ -18,7 +18,7 @@
 <hr/>
 
 <h3>
-    :open_file_folder: Execute o projeto :open_file_folder:
+    :open_file_folder: Execute o projeto
 </h3>
 <p>
 Para executar o projeto em sua máquina local, siga estas etapas:
@@ -30,7 +30,7 @@ Para executar o projeto em sua máquina local, siga estas etapas:
 <hr/>
 
 <h3>
-    :scroll: Licença :scroll:
+    :scroll: Licença
 </h3>
 
 <p>
