@@ -8,15 +8,6 @@
 </p>
 <hr/>
 
-<h3> 
-    :construction:  Projeto em construção  :construction:
-</h3>
-
-<p>
-  Esse projeto está em desenvolvimento e deve receber atualizações com o passar dos tempos!
-</p>
-<hr/>
-
 <h3>
     :open_file_folder: Execute o projeto
 </h3>
