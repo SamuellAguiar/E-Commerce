@@ -1,4 +1,4 @@
-<h2 align="center">E-commerce</h2>
+<h2>FlashTime</h2>
 
 <p>
   Esse projeto consiste em uma página web que representa um e-commerce.
